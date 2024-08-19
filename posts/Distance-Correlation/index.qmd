@@ -1,0 +1,51 @@
+---
+title: "Distance Correlation: A Discovery"
+date: "2024-06-11"
+categories: [statistics]
+execute:
+  echo: false
+---
+
+```{r}
+options(scipen = 999)
+
+```
+
+
+I may have fallen in love. A remarkable statistic, simply remarkable, has fallen into my lap. Forget about the correlation coefficient, that accursed, nearly useless, but always used statistic. Useless, I say? Well, perhaps I am exaggerating for theatrics. Nonetheless, we all know the famous example at which it fails utterly. Let $X$ be a random variable talking both negative and positive values, and let $Y$ be another random variable such that 
+
+$$Y = X^2$$
+
+And we can plot them together:
+
+```{r, echo=TRUE, warning=FALSE, message=FALSE}
+library(ggplot2)
+x <- runif(1000, -10, 10)
+y <- x**2
+
+ggplot(mapping = aes(x=x, y=y)) + geom_point() + geom_smooth(method = 'lm', se=F)
+```
+
+The two variables are certainly dependent, but there is no *linear* relationship, and so if we compute the correlation coefficient it will turn out to be $0$.
+
+```{r, echo=TRUE}
+cor(x, y)
+```
+
+Now here comes the new measure, introduced in [Measuring and testing dependence by correlation of distances](https://arxiv.org/abs/0803.4101v1), and called the distance correlation $R$. $R$ satisfies two conditions:
+
+1. $R(X, Y)$ is defined for $X$ and $Y$ of arbitrary dimension, i.e, $dim(X)$ doesn't necessarily have to equal $dim(Y)$.
+
+2. $R(X, Y) = 0$ iff $X$ and $Y$ are independent.
+
+Are these two conditions not beautiful? 
+
+I am not going to talk about the definition and the inner machinery, but the measure is implemented in the R package "Energy" written by authors of the paper. Let's compute $R$ instead of the correlation coefficient in our previous example.
+
+```{r, echo=TRUE, warning=FALSE, message=FALSE}
+library(energy)
+
+dcor(x, y)
+```
+
+Which is certainly far enough from $0$ to imply a strong degree of dependence.

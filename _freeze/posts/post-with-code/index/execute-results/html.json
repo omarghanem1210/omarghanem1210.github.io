@@ -1,0 +1,12 @@
+{
+  "hash": "6d8f3299a64034fa694ccf0ed58f3851",
+  "result": {
+    "engine": "jupyter",
+    "markdown": "---\ntitle: Interactive and Static Plots in Quarto\nformat: html\nexecute:\n  echo: false\n---\n\n## Static Histogram Plot\n\n::: {#aab806c2 .cell execution_count=1}\n\n::: {.cell-output .cell-output-display}\n![](index_files/figure-html/cell-2-output-1.png){width=566 height=411}\n:::\n:::\n\n\n",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}

@@ -1,0 +1,31 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Ramblings Of A Madman"
+  description: "All things philosphical, literary and mathematical"
+  navbar:
+    right:
+      - icon: github
+        href: https://github.com/omarghanem1210
+      - text: Medium
+        href: https://medium.com/@omarghanem1210
+    left: 
+      - text: Posts
+        href: blog.qmd
+
+  cookie-consent: true
+  twitter-card: true
+  open-graph: true
+
+format:
+  html:
+    theme:
+      light: cosmo
+      dark: darkly
+
+    css: styles.css
+
+
+

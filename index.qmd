@@ -1,0 +1,16 @@
+---
+title: "About"
+image: profile.jpg
+about:
+  template: jolla
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com
+    - text: Medium
+      href: https://medium.com/@omarghanem1210
+
+
+---
+
+I am a nobody who would like to know everything. About the things below the earth and the things above the heavens. Sometimes, I lie awake at night, unable to sleep, and the knowledge that I will die knowing only an infinitesimal fraction of all there is sends me into frightful fits of despair.
