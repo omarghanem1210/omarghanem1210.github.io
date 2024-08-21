@@ -1,5 +1,5 @@
 ---
-title: "Ramblings Of A Madman"
+title: "Allegory of the Cave"
 listing:
   contents: posts
   sort: "date desc"
