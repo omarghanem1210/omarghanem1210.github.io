@@ -20,6 +20,7 @@ website:
   cookie-consent: true
   twitter-card: true
   open-graph: true
+  google-analytics: "G-B8QDEDGG2B"
 
 format:
   html:
