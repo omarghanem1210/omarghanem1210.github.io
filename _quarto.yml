@@ -11,16 +11,21 @@ website:
         href: https://github.com/omarghanem1210
       - text: Medium
         href: https://medium.com/@omarghanem1210
+      - icon: rss
+        href: blog.xml
     left: 
       - text: Posts
         href: blog.qmd
       - text: About
         href: index.qmd
+    
 
   cookie-consent: true
   twitter-card: true
   open-graph: true
   google-analytics: "G-B8QDEDGG2B"
+  site-url: https://omarghanem1210.github.io
+  site-path: '/'
 
 format:
   html:

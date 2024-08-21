@@ -160,7 +160,7 @@ window.Quarto = {
 </script>
 
 <link rel="stylesheet" href="styles.css">
-<meta property="og:title" content="Allegory of the Cave">
+<link rel="alternate" type="application/rss+xml" title="Allegory of the Cave" href="blog.xml" data-external="1"><meta property="og:title" content="Allegory of the Cave">
 <meta property="og:site_name" content="Allegory of the Cave">
 <meta name="twitter:title" content="Allegory of the Cave">
 <meta name="twitter:card" content="summary">
@@ -201,6 +201,11 @@ window.Quarto = {
   <li class="nav-item">
     <a class="nav-link" href="https://medium.com/@omarghanem1210"> 
 <span class="menu-text">Medium</span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="./blog.xml"> <i class="bi bi-rss" role="img">
+</i> 
+<span class="menu-text"></span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -681,7 +686,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp('/' + window.location.host + '/');
+      var filterRegex = new RegExp("https:\/\/omarghanem1210\.github\.io");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }

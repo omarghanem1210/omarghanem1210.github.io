@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Allegory of the Cave</title>
+<link>https://omarghanem1210.github.io/blog.html</link>
+<atom:link href="https://omarghanem1210.github.io/blog.xml" rel="self" type="application/rss+xml"/>
+<description>All things philosphical, literary and mathematical</description>
+<generator>quarto-1.4.554</generator>
+<lastBuildDate>Sun, 18 Aug 2024 21:00:00 GMT</lastBuildDate>
+<item>
+  <title>The Republic Of Plato: Book 1</title>
+  <link>https://omarghanem1210.github.io/posts/republic-part1/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="introduction" class="level1">
+<h1>Introduction</h1>
+<p>I started reading The Republic knowing nothing about it except two things: That it’s concerned with the nature of justice, and that in it Plato lays out his vision of an ideal society. I decided to write a series of blog posts about it, one for each book, for a total of, if I can manage it, ten posts. That was to force myself to actually <em>think</em> about what I am reading, as well as to have some fun. As I am writing this now, I have only finished book 1. Wish me luck! And please, let me know if I misunderstood or forgot to mention anything in the comments. It wouldn’t be very Socratic of me not to wish for discussion.</p>
+<p>Before this, I had read a few of Plato’s dialogues and I think The Republic is the only one other than The Apology where Socrates is actually narrating in first person. I wonder if that’s of some importance.</p>
+<p>Now, before I start, let’s think first about justice, which is the main concept discussed in book 1. If we think intuitively, what <em>is</em> justice anyway? For me, and I think for most of us, the first thing that comes to mind is this:</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://omarghanem1210.github.io/posts/republic-part1/court1.jpg" class="img-fluid figure-img"></p>
+<figcaption>Thomas Rowlandson (1756–1827) and Augustus Charles Pugin (1762–1832), The Old Bailey</figcaption>
+</figure>
+</div>
+<p>A court of law. Lawyers, judges and all that. The condemnation of the maleficent and the exoneration of the innocent. But is that really what justice is? Perhaps you and I can agree that the exoneration of the innocent is just; it would be a very unjust thing to punish somebody for a crime they didn’t commit after all, but is punishing the criminal a just action? On that, a lot of us may disagree. I am not here considering the point that the laws may be <em>wrong</em>, that the criminal may not actually be <em>evil</em>; rather let the criminal of which I speak have committed a most heinous crime, the question remains: Is punishing him just? Is that what justice is, good for good and evil for evil? Giving to each what they deserve?</p>
+<p>Well, let’s not be hasty. We have a long book to get into, after all.</p>
+</section>
+<section id="the-background-of-the-dialogue" class="level1">
+<h1>The background of the dialogue</h1>
+<p>The book starts with Socrates attending a festival, alongside his friend, Glaucon, at the port of Athens when they are accosted by a group of seemingly rough types.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://omarghanem1210.github.io/posts/republic-part1/Taking-Of-Christ.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+</figure>
+</div>
+<p>These rough types threaten and intimidate Socrates and Glaucon into staying at the festival instead of returning to Athens. At the head of these men is a gentleman called Polemarchus. They all then go to Polemarchus’s house, and the dialogue starts.</p>
+</section>
+<section id="first-definition-of-justice" class="level1">
+<h1>First definition of justice</h1>
+<p>Inside the house Socrates meets Polemarchus’s father, Cephalus, who is a rich man. Cephalus inherited most of his money from his own father, and lists the many benefits of wealth. But first and foremost of all benefits, he says, is that wealth allows one to be <em>just</em>. With it, one has no reason to cheat his fellow men; with it, one has less reason to lie and is able to pay back any debts that he owes and can offer sufficient sacrifices to the gods.</p>
+<p>Socrates, naturally enough, once he had the slightest hint that Cephalus believed himself to know what justice is, asks him about it. But Cephalus is busy, with his sacrifices and the festival, and so his son, Polemarchus tells Socrates what justice is.</p>
+<p>To Polemarchus, justice is:</p>
+<p><em>The giving back of what’s owed.</em></p>
+<p>But there are cases, as Socrates notes, where giving back what’s owed may be unjust. Such as when you owe your friend a gun, say, and he demands it back, but you notice that he isn’t in his right mind and something truly tragic would occur if you return it. Would it then be just to give it back?</p>
+<p>Polemarchus agrees with this, and says that by “what’s owed” he means only what’s good to friends, and what’s bad to enemies. Socrates then makes a very strange argument which I don’t quite understand. He says to Polemarchus that then by “what’s owed” he means “what’s fitting”, and that he is saying that justice is giving to one’s friends and enemies what’s most fitting to them. All well and good. Then things take a turn for the strange.</p>
+<p>He asks Polemarchus what is it that’s owed and fitting that the art(by art, I assume he means occupation, or craft, or suchlike) called medicine gives and to whom or what. I had better quote the whole bit of dialogue, just to prevent my own confusion.</p>
+<blockquote class="blockquote">
+<p>“In the name of Zeus,” I said, “if someone were to ask him, ‘Simonides, the art called medicine gives what that is owed and fitting to which things?’ what do you suppose he would answer us?”</p>
+<p>“It’s plain,” he said, “drugs, foods and drinks to bodies.”</p>
+<p>“The art called cooking gives what that is owed and fitting to which things?”</p>
+<p>“Seasonings to meats.”</p>
+<p>“All right. Now then, the art that gives what to which things would be called justice?”</p>
+<p>“If the answer has to be consistent with what preceded, Socrates,” he said, “the one that gives benefits and harms to friends and enemies.”</p>
+<p>“Does he mean that justice is doing good to friends and harm to enemies?”</p>
+<p>“In my opinion.”</p>
+</blockquote>
+<p>Why does Socrates suddenly assume that justice is an art? That seems inexplicable to me. They continue in that direction for a while, Socrates and Polemarchus, and describe what each art is useful for. They conclude that Justice, in so much as it’s an art by assumption, is most useful when somebody is needed to guard some money. Quite the anticlimax if I may say so. In any case, Socrates does some more proof by analogy:</p>
+<blockquote class="blockquote">
+<p>“Let’s look at it this way. Isn’t the man who is cleverest at landing a blow in boxing, or any other kind of fight, also the one cleverest at guarding against it?”</p>
+<p>“Certainly.”</p>
+<p>“And whoever is clever at guarding against disease is also cleverest at getting away with producing it?” “In my opinion, at any rate.”</p>
+<p>“And, of course, a good guardian of an army is the very same man who can also steal the enemy’s plans and his other dispositions?”</p>
+<p>“Certainly.”</p>
+<p>“So of whatever a man is a clever guardian, he is also a clever thief?”</p>
+<p>“It seems so.”</p>
+<p>“So that if a man is clever at guarding money, he is also clever at stealing it?”</p>
+<p>“So the argument indicates at least,” he said.</p>
+<p>“The just man, then, as it seems, has come to light as a kind of robber, and I’m afraid you learned this from Homer. For he admires Autolycus, Odysseus’ grandfather on his mother’s side, and says he surpassed all men ‘in stealing and in swearing oaths.’ Justice, then, seems, according to you and Homer and Simonides, to be a certain art of stealing, for the benefit, to be sure, of friends and the harm of enemies. Isn’t that what you meant?”</p>
+</blockquote>
+<p>This is all convincing enough, but the argument seems somewhat wasteful, since its main assumption, that justice is an art, is so farfetched. Wait, could it be that the argument whole point was to show that justice isn’t an art? Perhaps Socrates isn’t lying when he says that he truly wishes to know what justice is, and so he is trying to know justice by what it is <em>not</em>. Yes, I think that’s how it is. He isn’t simply engaging with Polemarchus, but is also trying to find out the truth for himself.</p>
+<p>So his argument was as follows:</p>
+<ol type="1">
+<li><p>Assume justice is an art like medicine, or cooking, or dancing, or whatever; that it’s something to be learned and practiced</p></li>
+<li><p>Art, in general, is the “giving of what’s owed or fitting to something”</p></li>
+<li><p>Just as the artist is master of “giving of what’s owed or fitting to something”, he is also master at not doing that, or at giving what is not fitting. Want to demolish a building? Call a constructor(I may have just invented an aphorism)</p></li>
+<li><p>But then a just man will turn out to be the best thief there ever was, which contradicts what we intuitively know about justice, so our assumption was wrong after all. Justice isn’t an art.</p></li>
+</ol>
+<p>I still think the strange notion of “art” that the Greeks have is doing a lot of heavy lifting. No matter, let’s continue.</p>
+<p>Socrates then forgets about justice as art, and attacks the definition from another direction. Now, instead of justice being art, it’s <em>virtue</em>. I don’t think this time is the same as before, where the main aim was to show what justice is not. I think Socrates is taking justice to be– or at least a part of– virtue because that’s something he, or rather we, all of humanity, believes. So he is really going to attack the definition here.</p>
+<p>He tries to prove that the part about doing harm to enemies is wrong, but the argument is rather general; it won’t matter if we think of the definition as what we conjectured at the start, that it’s just to meet evil with evil. Socrates then proves that doing harm to a person causes a loss of virtue in that person using a proof by analogy– I am starting to hate proof by analogies. He says that causing harm to dogs or horses cause a loss of virtue to dogs or horses(does he assume that the virtue of dogs and horse lies in being obedient to human beings?) and so the same thing happens in humans.</p>
+<p>But then evil for evil cannot be justice, he says, because a thing can’t produce its opposite. Heat can’t produce cold. Water can’t make something dry. So it is that justice, which is a virtue, cannot cause a loss of virtue as a byproduct.</p>
+<p>I believe the main weakness of this argument to be the part about dogs and horses. I may have to consult a dog or a horse trainer. Would the trainer know what I am talking about if I ask what’s the virtue of an animal?</p>
+<p>In the end, Socrates and Polemarchus become friends, and promise to wage battle on anybody who says justice is doing good to friends and harm to enemies.</p>
+<blockquote class="blockquote">
+<p>“We shall do battle then as partners, you and I,” I said, “if someone asserts that Simonides, or Bias, or Pittacus or any other wise and blessed man said it.”</p>
+<p>“I, for one,” he said, “am ready to be your partner in the battle.”</p>
+<p>“Do you know,” I said, “to whom, in my opinion, that saying belongs which asserts that it is just to help friends and harm enemies?”</p>
+<p>“To whom?” he said.</p>
+<p>“I suppose it belongs to Periander, or Perdiccas, or Xerxes, or Ismenias the Theban, or some other rich man who has a high opinion of what he can do.”</p>
+<p>“What you say is very true,” he said.</p>
+</blockquote>
+</section>
+<section id="second-definition-of-justice" class="level1">
+<h1>Second definition of justice</h1>
+<p>Just to be transparent, I had a lot of trouble with this section. So I will most likely say a lot of wrong and stupid things.</p>
+<p>Socrates is then challenged by a man called Thrasymachus to give his own opinion about what justice is, instead of asking for the opinions of other men and thereafter blowing holes in their arguments. As always, Socrates is a slippery as an eel, and in the end it’s Thrasymachus and not he that gives us our second possible definition of justice.</p>
+<p>His definition is:</p>
+<p><em>Whatever is to the advantage of the stronger is just</em></p>
+<p>Quiet the strange definition. He clarifies it by saying that, in so much as the ruler of a city is always the strongest, and that all laws set by such rulers are to their own advantage, it’s just for the citizens to follow these laws.</p>
+<p>There are so many holes in this definition, I doubt Plato expects us to take it seriously. Socrates again uses a proof by analogy and assumes justice is an art(Why this again?!). He says that all art is practiced for the advantage of something else, never for the advantage of the artist. Medicine, to the advantage of the body. Cooking, to the advantage of meat. Art is always to the advantage of the weaker and the ruled, not the stronger and ruler. And so the the definition can’t be correct.</p>
+<p>I am not convinced, neither am I enlightened.</p>
+<p>All that Socrates has shown is that there are two statements:</p>
+<ul>
+<li><p>Justice is an art</p></li>
+<li><p>Justice is the advantage of the stronger</p></li>
+</ul>
+<p>And that these two statements are contradictory. Come to think of it, that’s the same thing he did previously. He showed that the first definition and the statement that justice is art are contradictory. Is this some sort of proof by exhaustion? Is whole purpose of book 1 to show that justice isn’t art by trying all possible definitions? I don’t know.</p>
+<p>Socrates and Thrasymachus talk further about whether it’s better to be just or unjust, but Socrates’s arguments are somewhat simpler and less rigorous here. And he takes the existence of the soul for granted. I remember somewhat vaguely that Plato–or Socrates– gave a proof for its existence in the Phaedo dialogue, but I am not certain.</p>
+<p>Well, here is book 1 one finished, and what do I now know that I hadn’t before?</p>
+<p>That justice is certainly not an art.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>philosophy</category>
+  <category>plato</category>
+  <guid>https://omarghanem1210.github.io/posts/republic-part1/</guid>
+  <pubDate>Sun, 18 Aug 2024 21:00:00 GMT</pubDate>
+  <media:content url="https://omarghanem1210.github.io/posts/republic-part1/school-of-athens.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>K.J. Parker, Most Underrated Fantasy Writer Of All Time?</title>
+  <link>https://omarghanem1210.github.io/posts/K.J.Parker/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="the-begining" class="level2">
+<h2 class="anchored" data-anchor-id="the-begining">The Begining</h2>
+<p>My extra-marital affair with K.J Parker books (before that I was married to Stephen king’s books, but then we had a short and violent divorce; I prefer not to talk about it) started innocently enough. I was browsing goodreads and, in a completely unremarkable manner ill-befitting the momentous occasion, came upon this book: <a href="https://www.goodreads.com/book/show/338404.Colours_in_the_Steel">Colours in the Steel</a>.</p>
+<p>So I started reading the synopsis. And what was this? <em>fencer</em> lawyers? Lawyers who argue with swords instead of words? That was something new. By that time I had had my great rift with the fantasy genre; I was greatly disillusioned by it, feeling that it had become a great, swirling mass of cliches barely held together by uninteresting characters living in boring, simplistic worlds, with nary a hint of originality in sight. Now <em>here</em> was this book; it looked interesting, it seemed to have a unique premise, but surely only disappointment would ensue? Yet I tried it. I read it. And the rest, as they say, was history.</p>
+<p>From now on, I am not going to talk about the fencer lawyers. Parker isn’t the kind of fantasy writer to be chained and bound by a premise or idea. It was just a small plot point in this particular book. Instead I will talk about his books as a whole, and what differentiates them from run of the mill fantasy works.</p>
+</section>
+<section id="the-characters" class="level2">
+<h2 class="anchored" data-anchor-id="the-characters">The Characters</h2>
+<p>We all know how characters in this genre are like. They are always… how do I say it? Too clean perhaps? Yes, too clean. I don’t mean cleanliness as in moral cleanliness– I speak about the fantasy genre as a whole, even the grimdark sub-genre of it. Rather, I mean <em>spiritual</em> cleanliness. There are no dark spots in their spirits, no <em>ambiguity</em>. Even when ambiguity exists, it often feels artificial, contrived, and so in your face that it stops being ambiguous and just becomes another trait in the character’s personality– an affectation.</p>
+<p>Consider the following list of archetypes:</p>
+<ol type="1">
+<li><p>The Dark Lord.</p></li>
+<li><p>The Evil Sorcerer.</p></li>
+<li><p>The Hero.</p></li>
+<li><p>The Barbarian.</p></li>
+<li><p>The Rogue with the heart of gold.</p></li>
+</ol>
+<p>The first archetype, the Dark Lord, I have never seen written well, except perhaps in Malazan Book of the Fallen, though the word is never explicitly used (there are certainly dark lords in Malazan, if we consider dark lords to be beings of considerable strength considered unanimously by the world to be a great threat). Of the Evil Sorcerer and The Barbarian, I cannot fail to consider Joe Abercombie, who wrote these two archetypes with a great deal of complexity. But it’s not complexity that I wish to find but ambiguity. I think most of us when considering the Evil Sorcerer of Abercomie’s (I will not name names, In case you haven’t read the books) would, without hesitation, say what he would or wouldn’t do. The same goes for the Barbarian.</p>
+<p>Of the Hero I needn’t speak. Of the Rogue, we have Locke Lamora, the gentleman bastard, but again, I don’t think there is any doubt about what he would or wouldn’t do in a given situation.</p>
+<p>K.J Parker’s characters aren’t like that. You never quite know what what they are going to do. Sometimes they are hypercompetent, and at other times they seem incapable of doing anything right. They are both frightening and frightened. In Parker’s world every human being is capable of doing <em>anything</em> under the right circumstances; there are no limits or red lines. And they are never archetypes.</p>
+<p>The protagonists of a Parker book are rarely, if ever, inherently evil. What they seek is usually quite mundane: love, money, peace of mind, or merely not to die, but what they receive is rarely what they seek. They commit atrocities for the sake of their goals, or merely in a moment of anger, and they often feel bad about what they did afterwards. But they get right back to work soon after, for they share two qualities that is much in abundance inside all of us:</p>
+<ul>
+<li><p>The potential to commit <em>any</em> kind of act</p></li>
+<li><p>The ability to rationalize and justify their every action.</p></li>
+</ul>
+<p>When meeting a Parker protagonist, I say, watch your back, and make sure that you don’t blink.</p>
+</section>
+<section id="the-plot" class="level2">
+<h2 class="anchored" data-anchor-id="the-plot">The Plot</h2>
+<p>Parker’s plots usually start as dark comedy, then, bit by bit, they transform into dark, obscene tragedy. He reminds one of the old Greek tragedians and comedians of old, Euripides, Aeschylus, Sophocles, Aristophanes and Eupolis (which is no surprise, Parker’s historical fiction which he writes under his true name, Tom Holt, is every bit as good as his fantasy, and he even wrote a fantastic duology about Eupolis). Family is nearly always an essential part of the plot. And how could they not be, these people to whom we are bound by an unbreakable string not of our own making? Siblings, parents, children and lovers abound, with all the drama that such abundance entails.</p>
+<p>But the drama is cold, sick. Worms and maggots fester. Read the books if you would like, but don’t come blaming me once things take an unanticipated turn.</p>
+</section>
+<section id="the-world" class="level2">
+<h2 class="anchored" data-anchor-id="the-world">The World</h2>
+<p>At first, I believed that every Parker’s book was set in a different world. But then I read a few more, and started to hear names being repeated; names of people, of countries, of religions, and realized this: <em>that every book is set in the same world</em>.</p>
+<p>Why was that such a surprise? Perhaps I was used to fantasy authors succumbing to the irresistible urge to lay their world bare. By succumbing to that urge, they make their world feel small, minuscule, for no amount of maps and detailed geographical description can make one writer’s imagination equal to that of the world. In contrast, Parker is far more subtle; scattering a smattering of hints throughout all his works, he induces in the reader a feeling of grandness unrivaled in any other fictional world, except perhaps that of Erikson’s.</p>
+<p>There is magic and supernatural creatures in this world, but they are rarely mentioned in his main novels. If you would like to read K.J Parker with a more supernatural bent, read his collections of short stories. They are filled to the prim with witches, gods, sorcerer and devils.</p>
+</section>
+<section id="the-recommended-reading-plan" class="level2">
+<h2 class="anchored" data-anchor-id="the-recommended-reading-plan">The Recommended Reading Plan</h2>
+<p>So which book to start the great reading journey with, what book to read after that, and what book to read after <em>that</em>? You have two options. You can either go <a href="https://www.goodreads.com/author/list/240708.K_J_Parker">here</a> and pick what seems to you the best, or you can follow my 13 steps plan to reading Parker.</p>
+<p>The plan is as follows:</p>
+<ol type="1">
+<li><p>Start with <a href="https://www.goodreads.com/book/show/24952878-savages?from_choice=false&amp;from_home_module=false">Savages</a>, a standalone book; take the lay of the ground.</p></li>
+<li><p>If you find it to your liking, read his first trilogy, <a href="https://www.goodreads.com/series/42416-fencer-trilogy">The Fencer Trilogy</a></p></li>
+<li><p>Read <a href="https://www.goodreads.com/book/show/12826714-sharps">Sharps</a></p></li>
+<li><p>Then read <a href="https://www.goodreads.com/series/42084-scavenger">The Scavenger Trilogy</a></p></li>
+<li><p>Read his first collection of short stories, <a href="https://www.goodreads.com/book/show/20919846-academic-exercises">Academic Exercises</a></p></li>
+<li><p>Be a dear, and read his historical fiction written under the name Tom Holt. Start with <a href="https://www.goodreads.com/series/56499-the-walled-orchard">The Walled Orchard</a></p></li>
+<li><p>Finally, read <a href="https://www.goodreads.com/series/41528-engineer-trilogy">The Engineer Trilogy</a></p></li>
+</ol>
+<p>Congratulations! You are now an expert. Read any of his other works in any order you like.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>books-and-literature</category>
+  <guid>https://omarghanem1210.github.io/posts/K.J.Parker/</guid>
+  <pubDate>Wed, 24 Jul 2024 21:00:00 GMT</pubDate>
+  <media:content url="https://omarghanem1210.github.io/posts/K.J.Parker/greek-art.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Midnight Ramblings: A Short Story</title>
+  <link>https://omarghanem1210.github.io/posts/Midnight-Ramblings/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Every now and again I find myself in the mood to write a short story, which I then write, and which I then try to get published, but which never gets published.</p>
+<p>Here is one:</p>
+<section id="midnight-ramblings" class="level1">
+<h1>Midnight Ramblings</h1>
+<p>We were at our usual meeting place, my friend and I, the small and desolate coffee shop located three blocks away from the unlicensed chemist, at the end of the blind alley where the clown was killed most gruesomely the week before. We had been talking about the murder, but the talk had petered out soon after starting, seeing as neither of us possessed particularly strong feelings concerning the clown. In the silence, my friend watched his coffee cup which lay untouched in front of him, and I watched the shop’s owner, Sally, as she kept unceasingly dusting the clean and sparkling pinewood floor of the shop. Sally herself, almost surely, was watching us in our little corner booth, but with her ears instead of her eyes.</p>
+<p>“My wife killed Tabby,” my friend suddenly said, breaking the silence.</p>
+<p>I laughed loudly. It seemed the funniest thing in the world to me, my friend’s wife killing Tabby. But perhaps it wasn’t so funny, I wouldn’t know. It was approaching midnight, and in this horrible last hour of the day, with my mental and physical state being by all metrics below standard, it was the toss of a coin whether I would deem something tragic or comical.</p>
+<p>My friend stared disappointedly at me as I laughed but didn’t interrupt. He was very polite, was my friend. His parents had raised him extremely well.</p>
+<p>“Sorry, sorry, something was stuck down my throat,” I said. I paused for a few seconds, then I couldn’t contain myself. “How did she kill Tabby, and would you by any chance have a picture?”</p>
+<p>“No, I don’t have a picture. Of course I don’t have a picture. Can you imagine my state of mind at the time?”</p>
+<p>“Yes, yes,” said I, and muttered some platitudes. I then remembered to give my condolences, though it was perhaps a little late.</p>
+<p>“Thank you for your thoughts,” he said. “But I want your advice, and Sally’s as well.”</p>
+<p>Instantly, making no attempt to hide her eavesdropping, Sally stopped cleaning, left the broom near the counter, and started approaching us. And why not approach us? There were no customers other than my friend and I in the shop; there were never any customers other than my friend and I in the shop. I just hoped to God she wouldn’t sit next to me.</p>
+<p>She stopped near the table, let her eyes roam wildly all over the place. Then her lips pulled apart, showing yellow, dirty teeth, in an absolutely horrendous attempt at smiling.</p>
+<p>“I heard my name,” she said. She took a seat next to me, so that I was besieged on both sides, with the wall to my right, where a cockroach had been crawling like a snail for the past hour, trying to reach the open window, and Sally to my left. I started wriggling to the right, in order to put a vast distance between us. There wafted from her a disgusting, stomach-churning smell, as per usual.</p>
+<p>As I silently, and hopefully stealthily, made my way towards the cockroach, my friend explained the matter succinctly to Sally.</p>
+<p>“Disgusting, absolutely disgusting,” she said. You were disgusting, I wanted to say, but held my tongue.</p>
+<p>“I agree. You should have seen how proud she was afterwards, laughing and joking and saying all manner of derogatory things concerning Tabby”</p>
+<p>I stopped wiggling, seeing perhaps a chance to satiate my curiosity. “How about you describe the murder? More data is always helpful in these matters.”</p>
+<p>“Ignore him. I know how hard this must be for you,” Sally told my friend, and patted my shoulder affectionately, to show she meant nothing offensive, as if we… As if we were lovers. Did she want us to be lovers? Was there a chance that I could love her back? I decided that no, I couldn’t possibly reciprocate her affections, not after where her hands had been inside the week before. I was nearly cheek to cheek with the cockroach by now, its antennas waving hither and thither, its small legs moving in a flurry, to no avail; a lot of force, but no work at all. I wondered if it was perhaps diseased.</p>
+<p>“What am I to do with her?” my friend asked.</p>
+<p>“Kill her,” Sally said. “Creep behind her while she is in the kitchen, grab a knife, and then…” She pantomimed stabbing a person from behind.</p>
+<p>“No class, no class at all,” I muttered.</p>
+<p>Sally hissed, wounded at my justified criticism. “Then do you have a better idea?” she asked.</p>
+<p>“There is an abandoned park,” I said. “Near the baker’s store–that blind baker who sells the worm-filled cookies. Inside the park, there usually sleeps a rabid dog. But nobody knows he is rabid, due to his unusual resistance to wakefulness.” I paused at this point of the proceedings, sensing a strange affinity with the dog. <em>An unusual resistance to wakefulness</em>. It seemed a shame to bring trouble to such an enlightened creature.</p>
+<p>“Yes, what should I do with the dog?” my friend asked.</p>
+<p>“A little thought and it’s obvious.” I felt something hairy and rough caress my right cheek.</p>
+<p>My friend hummed, and I imagined the deep thoughts swirling inside his head. Sally started tabbing her fingers on the table while gazing at me suggestively. I thought about the clown, that demented, depressed clown, who couldn’t make me laugh no matter what he said or did.</p>
+<p>Soon after, my friend and I left. He–I presume– went to his house and wife, and I to my little apartment. I passed by the park where the dog slept, beneath the light of the full moon. Poor thing, I thought, the only true victim should things proceed. I would admonish my friend severely, I decided, once he takes my advice.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>short-stories</category>
+  <guid>https://omarghanem1210.github.io/posts/Midnight-Ramblings/</guid>
+  <pubDate>Sun, 30 Jun 2024 21:00:00 GMT</pubDate>
+  <media:content url="https://omarghanem1210.github.io/posts/Midnight-Ramblings/the-starry-night.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>A Non-Rigorous Derivation Of The Stirling Approximation</title>
+  <link>https://omarghanem1210.github.io/posts/Stirling-Approximation/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>The Stirling approximation is a way to approximate <img src="https://latex.codecogs.com/png.latex?x!"> by the seemingly incomprehensible formula:</p>
+<p><img src="https://latex.codecogs.com/png.latex?x!%20%5Capprox%20e%5E%7B-%20x%7D%20x%5E%7Bx%20+%20%5Cfrac%7B1%7D%7B2%7D%7D%20%5Csqrt%7B2%20%5Cpi%7D"></p>
+<p>There is, of course, a completely rigorous way of defining and proving this, rife with integrals, but such a way gives no intuition about <em>why</em> such a formula is true. A far better way of proving it goes like this: let <img src="https://latex.codecogs.com/png.latex?X"> be a binomial random variable which represents the number of successes in <img src="https://latex.codecogs.com/png.latex?n"> trials with probability <img src="https://latex.codecogs.com/png.latex?p"> of success. Then we can write <img src="https://latex.codecogs.com/png.latex?X"> as a sum of <img src="https://latex.codecogs.com/png.latex?n"> Bernoulli random variables</p>
+<p><img src="https://latex.codecogs.com/png.latex?X%20=%20B_1%20+%20B_2%20+%20...%20+%20B_n"></p>
+<p>such that each <img src="https://latex.codecogs.com/png.latex?B_i"> is a bernoulli random variable with probability <img src="https://latex.codecogs.com/png.latex?p"> of success. By the central limit theorem we have that as <img src="https://latex.codecogs.com/png.latex?n%20%5Cto%20%5Cinfty">, the distribution of <img src="https://latex.codecogs.com/png.latex?X"> will approach <img src="https://latex.codecogs.com/png.latex?%5Cmathcal%7BN%7D(np,%5C,%20npq)">, where <img src="https://latex.codecogs.com/png.latex?q%20=%201%20-%20p">.</p>
+<p>Now here comes the trick, as <img src="https://latex.codecogs.com/png.latex?n%20%5Cto%20%5Cinfty">, let <img src="https://latex.codecogs.com/png.latex?p%20%5Cto%200"> while keeping <img src="https://latex.codecogs.com/png.latex?np%20=%20%5Clambda">, which is a constant. And we all know what the distribution will now tend to right? A poisson distribution with rate <img src="https://latex.codecogs.com/png.latex?%5Clambda">. Also, as we have that <img src="https://latex.codecogs.com/png.latex?n%20%5Cto%20%5Cinfty"> and <img src="https://latex.codecogs.com/png.latex?p%20%5Cto%200">, the mean of <img src="https://latex.codecogs.com/png.latex?X"> will approach <img src="https://latex.codecogs.com/png.latex?%5Clambda"> and its variance will also approach <img src="https://latex.codecogs.com/png.latex?%5Clambda"> (If you are wonder why that is the case, take the limit of <img src="https://latex.codecogs.com/png.latex?npq"> under the given conditions and see what happens).</p>
+<p>We now know two things: the first is that as <img src="https://latex.codecogs.com/png.latex?n%20%5Cto%20%5Cinfty"> and <img src="https://latex.codecogs.com/png.latex?p%20%5Cto%200">, <img src="https://latex.codecogs.com/png.latex?p(X)%20%5Capprox%20%5Cmathcal%7BN%7D(%5Clambda,%20%5Clambda)"> and also that <img src="https://latex.codecogs.com/png.latex?p(X)%20%5Capprox%20poisson(%5Clambda)">. Therefore, logically, we have that <img src="https://latex.codecogs.com/png.latex?%5Cmathcal%7BN%7D(%5Clambda,%20%5Clambda)%20%5Capprox%20poisson(%5Clambda)">, and so</p>
+<p><img src="https://latex.codecogs.com/png.latex?%5Cfrac%7Be%5E%7B-%5Clambda%7D%20%5Clambda%5Ex%7D%7Bx!%7D%20%5Capprox%20%5Cfrac%7B1%7D%7B%5Csqrt%7B2%5Cpi%5Clambda%7D%7D%20e%5E%7B%5Cfrac%7B-1%7D%7B2%7D(%5Cfrac%7Bx%20-%20%5Clambda%7D%7B%20%5Clambda%7D)%5E2%7D"> We can now substitute <img src="https://latex.codecogs.com/png.latex?x"> with <img src="https://latex.codecogs.com/png.latex?%5Clambda"> and we will have</p>
+<p><img src="https://latex.codecogs.com/png.latex?%5Cfrac%7Be%5E%7B-%5Clambda%7D%20%5Clambda%5E%5Clambda%7D%7B%5Clambda!%7D%20%5Capprox%20%5Cfrac%7B1%7D%7B%5Csqrt%7B2%5Cpi%5Clambda%7D%7D"> And the formula that we want follows easily enough</p>
+<p><img src="https://latex.codecogs.com/png.latex?%5Clambda!%20%5Capprox%20e%5E%7B-%20%5Clambda%7D%20%5Clambda%5E%7B%5Clambda%20+%20%5Cfrac%7B1%7D%7B2%7D%7D%20%5Csqrt%7B2%20%5Cpi%7D"></p>
+<p>The question now is how large the relative error is? Does it perhaps increases as <img src="https://latex.codecogs.com/png.latex?%5Clambda"> increases? Intuitively, we would guess no, nowhere in our derivation have we assumed anything about the magnitude of <img src="https://latex.codecogs.com/png.latex?%5Clambda">, and the approximation between the normal and poisson distribution holds irrespective of what number <img src="https://latex.codecogs.com/png.latex?%5Clambda"> actually is. But just to feel good, let’s check a few values.</p>
+<div class="cell">
+<div class="cell-output-display">
+<div>
+<table class="table table-sm table-striped small" data-quarto-postprocess="true">
+<thead>
+<tr class="header">
+<th style="text-align: right;" data-quarto-table-cell-role="th">x</th>
+<th style="text-align: right;" data-quarto-table-cell-role="th">x!</th>
+<th style="text-align: right;" data-quarto-table-cell-role="th">approximation</th>
+<th style="text-align: right;" data-quarto-table-cell-role="th">relative error</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: right;">1</td>
+<td style="text-align: right;">1</td>
+<td style="text-align: right;">0.922137</td>
+<td style="text-align: right;">0.0778630</td>
+</tr>
+<tr class="even">
+<td style="text-align: right;">2</td>
+<td style="text-align: right;">2</td>
+<td style="text-align: right;">1.919004</td>
+<td style="text-align: right;">0.0404978</td>
+</tr>
+<tr class="odd">
+<td style="text-align: right;">3</td>
+<td style="text-align: right;">6</td>
+<td style="text-align: right;">5.836210</td>
+<td style="text-align: right;">0.0272984</td>
+</tr>
+<tr class="even">
+<td style="text-align: right;">4</td>
+<td style="text-align: right;">24</td>
+<td style="text-align: right;">23.506175</td>
+<td style="text-align: right;">0.0205760</td>
+</tr>
+<tr class="odd">
+<td style="text-align: right;">5</td>
+<td style="text-align: right;">120</td>
+<td style="text-align: right;">118.019168</td>
+<td style="text-align: right;">0.0165069</td>
+</tr>
+<tr class="even">
+<td style="text-align: right;">9</td>
+<td style="text-align: right;">362880</td>
+<td style="text-align: right;">359536.872842</td>
+<td style="text-align: right;">0.0092128</td>
+</tr>
+<tr class="odd">
+<td style="text-align: right;">10</td>
+<td style="text-align: right;">3628800</td>
+<td style="text-align: right;">3598695.618741</td>
+<td style="text-align: right;">0.0082960</td>
+</tr>
+<tr class="even">
+<td style="text-align: right;">12</td>
+<td style="text-align: right;">479001600</td>
+<td style="text-align: right;">475687486.472776</td>
+<td style="text-align: right;">0.0069188</td>
+</tr>
+<tr class="odd">
+<td style="text-align: right;">17</td>
+<td style="text-align: right;">355687428096000</td>
+<td style="text-align: right;">353948328666100.812500</td>
+<td style="text-align: right;">0.0048894</td>
+</tr>
+<tr class="even">
+<td style="text-align: right;">20</td>
+<td style="text-align: right;">2432902008176640000</td>
+<td style="text-align: right;">2422786846761135616.000000</td>
+<td style="text-align: right;">0.0041577</td>
+</tr>
+<tr class="odd">
+<td style="text-align: right;">33</td>
+<td style="text-align: right;">8683317618811885938468668682226228200</td>
+<td style="text-align: right;">8661418381417952528044480808868426880.000000</td>
+<td style="text-align: right;">0.0025220</td>
+</tr>
+</tbody>
+</table>
+
+
+</div>
+</div>
+</div>
+<p>And we see that the relative error in fact <em>decreases</em> as <img src="https://latex.codecogs.com/png.latex?x"> increases.</p>
+
+
+
+ ]]></description>
+  <category>probability</category>
+  <guid>https://omarghanem1210.github.io/posts/Stirling-Approximation/</guid>
+  <pubDate>Wed, 19 Jun 2024 21:00:00 GMT</pubDate>
+  <media:content url="https://omarghanem1210.github.io/posts/Stirling-Approximation/factorial.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Distance Correlation: A Discovery</title>
+  <link>https://omarghanem1210.github.io/posts/Distance-Correlation/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>I may have fallen in love. A remarkable statistic, simply remarkable, has fallen into my lap. Forget about the correlation coefficient, that accursed, nearly useless, but always used statistic. Useless, I say? Well, perhaps I am exaggerating for theatrics. Nonetheless, we all know the famous example at which it fails utterly. Let <img src="https://latex.codecogs.com/png.latex?X"> be a random variable talking both negative and positive values, and let <img src="https://latex.codecogs.com/png.latex?Y"> be another random variable such that</p>
+<p><img src="https://latex.codecogs.com/png.latex?Y%20=%20X%5E2"></p>
+<p>And we can plot them together:</p>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">library</span>(ggplot2)</span>
+<span id="cb1-2">x <span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">&lt;-</span> <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">runif</span>(<span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">1000</span>, <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">-</span><span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">10</span>, <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">10</span>)</span>
+<span id="cb1-3">y <span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">&lt;-</span> x<span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">**</span><span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">2</span></span>
+<span id="cb1-4"></span>
+<span id="cb1-5"><span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">ggplot</span>(<span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">mapping =</span> <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">aes</span>(<span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">x=</span>x, <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">y=</span>y)) <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">+</span> <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">geom_point</span>() <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">+</span> <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">geom_smooth</span>(<span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">method =</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">'lm'</span>, <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">se=</span>F)</span></code></pre></div>
+<div class="cell-output-display">
+<div>
+<figure class="figure">
+<p><img src="https://omarghanem1210.github.io/posts/Distance-Correlation/index_files/figure-html/unnamed-chunk-2-1.png" class="img-fluid figure-img" width="672"></p>
+</figure>
+</div>
+</div>
+</div>
+<p>The two variables are certainly dependent, but there is no <em>linear</em> relationship, and so if we compute the correlation coefficient it will turn out to be <img src="https://latex.codecogs.com/png.latex?0">.</p>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb2" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb2-1"><span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">cor</span>(x, y)</span></code></pre></div>
+<div class="cell-output cell-output-stdout">
+<pre><code>[1] -0.01151053</code></pre>
+</div>
+</div>
+<p>Now here comes the new measure, introduced in <a href="https://arxiv.org/abs/0803.4101v1">Measuring and testing dependence by correlation of distances</a>, and called the distance correlation <img src="https://latex.codecogs.com/png.latex?R">. <img src="https://latex.codecogs.com/png.latex?R"> satisfies two conditions:</p>
+<ol type="1">
+<li><p><img src="https://latex.codecogs.com/png.latex?R(X,%20Y)"> is defined for <img src="https://latex.codecogs.com/png.latex?X"> and <img src="https://latex.codecogs.com/png.latex?Y"> of arbitrary dimension, i.e, <img src="https://latex.codecogs.com/png.latex?dim(X)"> doesn’t necessarily have to equal <img src="https://latex.codecogs.com/png.latex?dim(Y)">.</p></li>
+<li><p><img src="https://latex.codecogs.com/png.latex?R(X,%20Y)%20=%200"> iff <img src="https://latex.codecogs.com/png.latex?X"> and <img src="https://latex.codecogs.com/png.latex?Y"> are independent.</p></li>
+</ol>
+<p>Are these two conditions not beautiful?</p>
+<p>I am not going to talk about the definition and the inner machinery, but the measure is implemented in the R package “Energy” written by authors of the paper. Let’s compute <img src="https://latex.codecogs.com/png.latex?R"> instead of the correlation coefficient in our previous example.</p>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb4" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb4-1"><span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">library</span>(energy)</span>
+<span id="cb4-2"></span>
+<span id="cb4-3"><span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">dcor</span>(x, y)</span></code></pre></div>
+<div class="cell-output cell-output-stdout">
+<pre><code>[1] 0.5032529</code></pre>
+</div>
+</div>
+<p>Which is certainly far enough from <img src="https://latex.codecogs.com/png.latex?0"> to imply a strong degree of dependence.</p>
+
+
+
+ ]]></description>
+  <category>statistics</category>
+  <guid>https://omarghanem1210.github.io/posts/Distance-Correlation/</guid>
+  <pubDate>Mon, 10 Jun 2024 21:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>
