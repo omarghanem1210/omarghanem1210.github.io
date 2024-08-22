@@ -10,8 +10,8 @@ title-block-banner: true
 toc: true
 toc-depth: 3
 
-comments:
-  giscus:
-    repo: omarghanem1210/comments
+format:
+  html:
+    include-after-body: comments.html	
 
 
