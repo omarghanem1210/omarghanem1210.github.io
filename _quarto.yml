@@ -26,7 +26,7 @@ website:
   google-analytics: "G-B8QDEDGG2B"
   site-url: https://omarghanem1210.github.io
   site-path: '/'
-
+  favicon: icon.png
 format:
   html:
     theme:
