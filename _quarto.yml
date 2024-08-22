@@ -27,13 +27,14 @@ website:
   site-url: https://omarghanem1210.github.io
   site-path: '/'
   favicon: icon.png
+  
 format:
   html:
     theme:
       light: cosmo
       dark: darkly
-
     css: styles.css
+
 
 
 
